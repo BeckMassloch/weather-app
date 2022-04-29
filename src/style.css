@@ -45,6 +45,17 @@ button {
 .forecast-icon {
   color: #486989;
 }
+
 .forecast-temp {
   font-size: 16px;
+}
+
+#code-by {
+  font-size: 14px;
+  display: block;
+  text-align: center;
+}
+
+a {
+  color: #486989;
 }
