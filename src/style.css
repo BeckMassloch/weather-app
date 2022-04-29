@@ -1,0 +1,50 @@
+.container {
+  width: 500px;
+  margin-top: 20px;
+  font-family: "Fredoka", sans-serif;
+}
+
+.main-card {
+  border-color: #f95959;
+}
+
+h3 {
+  color: #4d4c48;
+  margin: 4px;
+}
+
+h1 {
+  color: #486989;
+}
+
+button {
+  color: #f95959;
+}
+.current-temp-icon {
+  font-size: 72px;
+  text-align: center;
+  color: #486989;
+}
+
+.current-city-temp {
+  text-align: center;
+}
+
+.current-date {
+  color: #4d4c48;
+  font-size: 16px;
+  margin: 0 auto;
+  line-height: 1.2;
+}
+
+.forecast {
+  color: #4d4c48;
+  text-align: center;
+}
+
+.forecast-icon {
+  color: #486989;
+}
+.forecast-temp {
+  font-size: 16px;
+}
